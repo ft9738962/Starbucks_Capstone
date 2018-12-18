@@ -52,7 +52,7 @@ A series of models has been built up to select the best appropriate offer to cus
 
 Here's a sample of the combined function of both models with input of a fictional female, aged 40, income 53000 and ask the result to include only the top 3 offer.
 
-<img src="https://github.com/ft9738962/Starbucks_Capstone/blob/master/fig/pred.png", width="500", height="400"/>
+![prediction result](https://github.com/ft9738962/Starbucks_Capstone/blob/master/fig/pred.png)
 
 # 5. How to Interact with the Project
 
